@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a Full Stack Developer who is passionate about creating applications that are user friendly and engaging. I am experienced in working with technologies such as JavaScript, React, mySQL, Express and HTML/CSS. I am open to learning new technologies and techniques to stay up-to-date with industry standards.
+I am a Full Stack Developer who is passionate about creating applications that are user friendly and engaging. I am experienced in working with technologies such as HTML5/CSS3. JavaScript, Handlebars, mySQL, Node, Express and MongoDB. I am always learning new technologies and techniques to stay up-to-date with industry standards.
 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [devancapps97@gmail.com](mailto:devancapps97@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on open source projects
+* 🤝  I'm open to collaborating on open source projects and working in a professional team environment.
 * ⚡  In the rare moments that i'm not coding, you'll likely catch me looking for a new ramen restaurant or surfing crunchyroll.
 
 ### Skills
