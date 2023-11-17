@@ -7,7 +7,7 @@ Full Stack Developer
 I'm a Full Stack Developer with a passion for solving complex problems and crafting user-friendly, engaging applications. My skills span HTML5, CSS3, JavaScript, SQL/NoSQL, Node, Express and React. With a marketing background, I offer a unique blend of technical expertise and user-centric design thinking. I excel in developing REST APIs, integrating third-party services, customizing UI components, and writing unit tests. I'm an avid learner and collaborative team player, always eager to explore new technologies and deliver innovative solutions.
 
 * ✉️  You can contact me at [devancapps97@gmail.com](mailto:devancapps97@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm currently learning cloud infrastructure.
 * 🤝  I'm open to collaborating on open source projects and working in a professional team environment.
 * ⚡  In the rare moments that i'm not coding, you'll likely catch me looking for a new ramen restaurant or surfing crunchyroll.
 
