@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   COFFEEPASS GITHUB PROFILE README                           -->
+<!--   GITHUB PROFILE README                                       -->
 <!--   Drop this file as README.md in your devancapps/devancapps  -->
 <!--   repo to show it on your GitHub profile                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -13,7 +13,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=C4883A&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Mobile+App+Developer+%F0%9F%93%B1;React+Native+%2B+Firebase+%E2%9A%A1;Founder+of+CoffeePass+%E2%98%95;Turning+ideas+into+products+%F0%9F%9A%80;Full+Stack+%7C+iOS+%7C+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=C4883A&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Mobile+App+Developer+%F0%9F%93%B1;React+Native+%2B+Firebase+%E2%9A%A1;Turning+ideas+into+products+%F0%9F%9A%80;Full+Stack+%7C+iOS+%7C+Android" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -36,43 +36,11 @@
 ```typescript
 const devan = {
   role:        "Mobile App Developer & Startup Founder",
-  currentlyBuilding: "☕ CoffeePass — the credit-based coffee marketplace",
   stack:       ["React Native", "TypeScript", "Firebase", "Node.js"],
   focus:       ["Mobile UX", "Marketplace Products", "Fintech"],
-  funFact:     "I designed a full credit ledger system over a single cup of cold brew ☕",
   openTo:      ["Collaborations", "Founding roles", "Cool problems"],
 };
 ```
-
-<br/>
-
----
-
-<!-- COFFEEPASS FEATURED PROJECT -->
-## ☕ &nbsp; What I'm Building
-
-<div align="center">
-
-<a href="https://github.com/devancapps/coffeepass">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11&height=120&text=CoffeePass&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Credit-based%20coffee%20marketplace%20%E2%80%94%20React%20Native%20%2B%20Firebase&descSize=15&descAlignY=75&fontAlignY=42" width="80%"/>
-</a>
-
-<br/><br/>
-
-| | |
-|:---:|:---|
-| 📱 | React Native (Expo) mobile app for iOS & Android |
-| ☕ | Two-sided marketplace: coffee drinkers ↔ local cafés |
-| 💳 | Credit-based ordering system with real-time Firestore ledger |
-| 💸 | Stripe Connect payouts + RevenueCat subscriptions |
-| 🗺️ | Geolocation-based café discovery with live order tracking |
-| 📊 | Café owner dashboard with earnings, menu management & reviews |
-
-<br/>
-
-[![Repo](https://img.shields.io/badge/View%20Repo-CoffeePass-C4883A?style=for-the-badge&logo=github&logoColor=white&labelColor=3B1F0E)](https://github.com/devancapps/coffeepass)
-
-</div>
 
 <br/>
 
@@ -146,55 +114,8 @@ const devan = {
 
 ---
 
-<!-- WHAT I'M WORKING ON -->
-## 🚀 &nbsp; Current Focus
-
-<div align="center">
-
-```
-🔨  Building CoffeePass MVP — credit marketplace for indie cafés
-📐  Designing the two-sided onboarding flow (customers + café owners)
-💰  Architecting the Stripe Connect payout pipeline
-📱  Polishing the React Native UI with Expo 53
-☕  Drinking too much coffee while doing all of the above
-```
-
-</div>
-
-<br/>
-
----
-
-<!-- COFFEEPASS ARCHITECTURE SNAPSHOT -->
-## 🏗️ &nbsp; How CoffeePass Works (Tech Overview)
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│              CoffeePass Architecture                     │
-├─────────────┬───────────────────────┬───────────────────┤
-│   CLIENT    │      FIREBASE         │  EXTERNAL          │
-│             │                       │                    │
-│  React      │  ● Firestore          │  ● Stripe          │
-│  Native     │  ● Auth               │  ● RevenueCat      │
-│  (Expo 53)  │  ● Cloud Functions    │  ● Google Maps     │
-│             │  ● Cloud Messaging    │  ● Apple IAP       │
-│  TypeScript │  ● Storage            │                    │
-└─────────────┴───────────────────────┴───────────────────┘
-     ↑                  ↑                       ↑
-  Customer &        Real-time data          Payments &
-  Café apps         + business logic        Payouts
-```
-
-</div>
-
-<br/>
-
----
-
 <!-- FUN STATS -->
-## ☕ &nbsp; Dev Stats (Real Ones)
+## 🧑‍💻 &nbsp; Dev Stats (Real Ones)
 
 <div align="center">
 
@@ -202,10 +123,9 @@ const devan = {
 |:---|:---:|
 | ☕ Coffees consumed per PR | `3-5` |
 | 🐛 Bugs introduced while fixing bugs | `yes` |
-| 📱 Screens designed for CoffeePass | `20+` |
-| 💸 Lines of credit ledger logic written | `500+` |
-| 🔥 Firebase collections architected | `6` |
 | 😅 Times I've said "one more feature" | `∞` |
+| 🔥 Firebase collections architected | `6` |
+| 📱 Apps shipped to the App Store | `soon™` |
 
 </div>
 
@@ -238,7 +158,6 @@ const devan = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-devancapps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devancapps)
-[![CoffeePass](https://img.shields.io/badge/Product-CoffeePass-C4883A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA3SDB2MTRBNCA0IDAgMCAxIDQgMjVoMTJhNCA0IDAgMCAxIDQtNFY3em0tMiAydjEwSDRWOWgxNHoiLz48L3N2Zz4=&logoColor=white&labelColor=3B1F0E)](https://github.com/devancapps/coffeepass)
 
 <br/>
 
@@ -254,8 +173,6 @@ const devan = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>⭐ If you like what I'm building, drop a star on <a href="https://github.com/devancapps/coffeepass">CoffeePass</a>!</sub>
 
 </div>
 
